@@ -12,16 +12,8 @@ public class MyGitTest {
 				continue;
 			}
 			System.out.println(str.substring(0, str.length()-1)+"="+sum);
-			
-<<<<<<< HEAD
-<<<<<<< HEAD
-			
-=======
-			System.out.println(str.substring("Enis Abi bak bu kodu çok zor yazdım"); 
->>>>>>> ab2d533f330ff92da7c565d638e28f37d87b7680
-=======
 			System.out.println("Enis Abi bak bu kodu cok zor yazdim"); 
->>>>>>> refs/remotes/origin/master
+
 
 	}
 	}
