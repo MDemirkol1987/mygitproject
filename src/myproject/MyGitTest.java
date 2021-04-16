@@ -12,6 +12,8 @@ public class MyGitTest {
 				continue;
 			}
 			System.out.println(str.substring(0, str.length()-1)+"="+sum);
+			
+			
 
 	}
 	}
