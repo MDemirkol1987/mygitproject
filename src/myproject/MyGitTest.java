@@ -13,6 +13,7 @@ public class MyGitTest {
 			}
 			System.out.println(str.substring(0, str.length()-1)+"="+sum);
 			System.out.println("Enis Abi bak bu kodu cok zor yazdim"); 
+			System.out.println("Buraya kod ekledim");
 
 
 	}
